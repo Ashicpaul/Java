@@ -1,3 +1,16 @@
+/*Consider the fuel rates in state wise as per the given table below. Create a Java application
+to calculate the fuel cost consumed by the customer. Create a super class called FUEL
+with few attributes such as fuel_name, state, cost. Add a function to calculate the cost for
+the fuel consumption required by customer. Derive sub classes as per the table given
+below. Provide an interface which prompts the user to give name, no. of liters required,
+etc. Finally print the name of the customer, state, no. of liters consumed and the total cost
+of the fuel. Complete the above scenario using Inheritance, Run Time Polymorphism with
+Menu driven options.
+Categories Tamil Nadu Kerala Karnataka
+Petrol(per litre) ₹ 97.46 ₹98.35 ₹99.61
+Diesel(per litre) ₹96.08 ₹97.37 ₹98.61
+Kerosene(per litre) ₹25.7 ₹26.4 ₹27.6
+Auto LPG Gas (perkg) ₹70.33 ₹71.27 ₹72.08*/
 package ex5b;
 import java.util.Scanner;
 

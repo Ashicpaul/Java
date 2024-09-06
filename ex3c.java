@@ -1,3 +1,5 @@
+/*Write a program to delete all vowels from a given sentence. Assume that the sentence is not more than
+80 characters long.*/
 package ex3c;
 import java.util.Scanner;
 public class ex3c {

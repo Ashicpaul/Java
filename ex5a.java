@@ -1,3 +1,11 @@
+/*Develop a java application using Inheritance as per the following. Create a class called
+Shape. Use this class to store two double data type values that will be used to compute the
+area of figures. Derive two specific classes called Triangle and Rectangle from the super
+class Shape. In super class, add necessary setter/getter to initialize Shape class data
+members and another member function find_area() to compute and display the area of
+figures. Override the display_area() from sub classes and redefine the function to suit their
+requirements. Complete above scenario using Inheritance, Run Time Polymorphism with
+Menu driven options.*/
 package ex5a;
 import java.util.Scanner;
 

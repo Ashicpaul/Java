@@ -1,3 +1,16 @@
+/*Imagine a tollbooth at a bridge. Cars passing by the booth were expected to pay a 50
+rupees to toll. Mostly they do, but sometimes a car goes by without paying. The
+tollbooth keeps track of the number of cars that have gone by, and of the total amount
+of money collected. Model this tollbooth with a class called tollbooth. The two data
+items must be a type unsigned int to hold the total number of cars, and a type double to
+hold the total amount of money collected. A constructor initializes both of these values
+to 0. A member function called payingcar () increments the car total and adds 50 rupees
+to the cash total. Another function, called nopaycar (), increments the car total but adds
+nothing to the cash total. Finally, a member function called display () displays the two
+totals. Make appropriate member functions const.
+Include a program to test this class. This program should allow the user to push
+one key to count a paying car, and another to count a nonpaying car. Pushing the ESC
+key should cause the program to print out the total cars and total cash and then exit.*/
 package ex4a;
 import java.util.Scanner;
 

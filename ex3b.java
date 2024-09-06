@@ -1,3 +1,6 @@
+/*Write a JAVA program to get a long paragraph of text and find out all the vowels
+and replace it with special symbol a user inputted character, finally output the given
+text and modified text.*/
 package ex3b;
 import java.util.Scanner;
 public class ex3b {

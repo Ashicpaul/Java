@@ -1,3 +1,16 @@
+/*Write a menu driven application to maintain the department details of a School using Java to
+demonstrate the concept of Inheritance. Your application must contain the following functionalities
+along with the use of method overriding, and super keyword. Consider the example of school of CST
+having three departments CSE, AI&DS and CE.
+a. For each department maintain the following details.
+i. deptName
+ii. hodName
+iii. noOfFaculty
+iv. noOfStudents
+v. noOfPrograms
+b. Get the department details from user(admin)
+c. Display the Department list with all details in a proper and neat format.
+d. In the menu give an option to display department wise details.*/
 package ex5c;
 import java.util.Scanner;
 

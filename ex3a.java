@@ -1,3 +1,9 @@
+/*Write a JAVA program to get a long paragraph of text and find out the followingand
+prints the same.
+a. Number of spaces
+b. Number of words
+c. Number of characters
+d. Number of lines*/
 package ex3a;
 import java.util.Scanner;
 public class ex3a {

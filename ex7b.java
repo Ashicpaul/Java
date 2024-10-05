@@ -1,3 +1,11 @@
+/*Write a menu driven program in Java to automate the Banking with ATM operations by
+demonstrating the concept of interface. Create custom exceptions to deal with the following
+situations
+a. Account is created with Initial Balance < 500 throw BalanceException
+b. Withdraw operation when balance amount <
+withdraw amount throw
+WithdrawException
+c. Invalid PIN number is entered more than 3 times throw PinException*/
 package ex7b;
 import java.util.Scanner;
 

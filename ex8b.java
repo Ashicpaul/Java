@@ -1,3 +1,6 @@
+/*The Airplane always needs to check with the Airport to see if it has an available runway
+before it's able to take off or land. Simulate the above-mentioned scenario using
+multithreading.*/
 package ex8b;
 
 class Airport {

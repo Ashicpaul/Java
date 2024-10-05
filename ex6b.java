@@ -1,3 +1,13 @@
+/* Develop an application in Java for automating the Banking Operations using
+interfaces. Create an interface called “Transaction” which contains the functions such
+as deposit, withdraw, and viewBalance. Create another interface called “Displayable”
+which contains the Display () function to display the account details.
+ Create an abstract class called “Account” with bank account detailssuch as acc_name,
+acc_no, and balance. Add necessary constructors.
+ Create a “Bank” class which implements the “Transaction”, “Displayable” interfaces
+and inherits “Account” class.
+ Perform menu driven operations like Deposit, Withdraw and Balance Enquiry, View
+Account Details from a Main class. Write logics in the corresponding methods.*/
 package ex6b;
 import java.util.Scanner;
 

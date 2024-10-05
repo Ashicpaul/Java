@@ -1,3 +1,10 @@
+/*Create an Abstract class called Shape with an abstract method calcArea(), non-abstract
+method display() and data members color and sides.
+Use hierarchical inheritance to inherit Shape class to two derived classes Square and
+Rectangle. Override the calcArea() with necessary implementation.
+Square : Area formula
+Rectangle : Area formula
+Create a Main class and perform the operations.*/
 package ex6a;
 import java.util.Scanner;
 

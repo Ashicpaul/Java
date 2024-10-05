@@ -1,3 +1,8 @@
+/*Create an array of characters which will be initialized during run time with vowels. If user
+enters any consonant, your code should generate a user-defined checked exception,
+InvalidVowelException. The description or message of InvalidVowelException is
+"character is consonant". Handle the exception by using try, catch, finally, throw and
+throws.*/
 package ex7a;
 import java.util.Scanner;
 class InvalidVowelException extends Exception {

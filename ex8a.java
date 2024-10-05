@@ -1,3 +1,7 @@
+/*Write a program which takes as input a huge array of numbers. This array is split into
+n sub-arrays and n threads apply a bubble sort on each of the n sub-arrays. Lastly,
+another thread merges the n sorted sub-arrays into one with the same size as the original
+array. Of course, the resulting array should be sorted.*/
 package ex8a;
 import java.util.Arrays;
 public class ex8a {
